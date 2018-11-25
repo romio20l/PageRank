@@ -1,6 +1,6 @@
 # PageRank
 
-A python implimentaion for pageRank algorithme using XML file for input
+A python implementation for pageRank algorithme using XML file for input
 
 # Requirements
 
